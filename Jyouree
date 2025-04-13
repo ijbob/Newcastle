@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>New Castle Tech Hub</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #111; color: #f8f8f8; }
+    h1 { color: #ffcc00; }
+    a { color: #00ffff; }
+  </style>
+</head>
+<body>
+  <h1>New Castle Tech Hub</h1>
+  <p>Welcome! This project is here to create and launch real technology for New Castle, Indiana and beyond.</p>
+  <p>This site is just getting started. More updates coming soon.</p>
+</body>
+</html>
